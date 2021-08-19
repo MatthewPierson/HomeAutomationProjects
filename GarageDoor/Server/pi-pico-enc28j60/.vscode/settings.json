@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "enc28j60.h": "c",
+        "xadapter.h": "c"
+    }
+}
